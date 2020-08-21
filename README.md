@@ -1,0 +1,2 @@
+# comingsoon
+Static Website
